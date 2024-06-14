@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fayazap
-- 👀 I’m interested in Front End Developmet, Smart Contracts Using Solidity, UI/UX Designing
-- 🌱 I’m currently learning Web 3.0 developmemt in Solidity
+- 👀 I’m interested frontend reactJs Developer and UI/UX Designer.
 - 📫 How to reach me   
 fayazap2@gmail.com
 https://twitter.com/FayazAP1

@@ -2,7 +2,7 @@
 - 👀 I’m interested frontend reactJs Developer and UI/UX Designer.
 - 📫 How to reach me
 
-![](https://leetcard.jacoblin.cool/ibru?theme=unicorn)
+![](https://leetcard.jacoblin.cool/FayazAP?theme=unicorn)
 
 fayazap2@gmail.com
 https://twitter.com/FayazAP1

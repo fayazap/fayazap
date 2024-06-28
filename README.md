@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @fayazap
 - 👀 I’m interested frontend reactJs Developer and UI/UX Designer.
-- 📫 How to reach me   
+- 📫 How to reach me
+
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
+
 fayazap2@gmail.com
 https://twitter.com/FayazAP1
 https://www.linkedin.com/in/fayaz-ap/
